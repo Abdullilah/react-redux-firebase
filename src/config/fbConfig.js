@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyBP3bXbSS4ym22MwAgVQak1kOR3KcEIQAg",
+  apiKey: "..........................", // Put Your Key From Firebase Config
   authDomain: "marioplan-files.firebaseapp.com",
   databaseURL: "https://marioplan-files.firebaseio.com",
   projectId: "marioplan-files",
